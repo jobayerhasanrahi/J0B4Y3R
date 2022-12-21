@@ -16,6 +16,8 @@ pip install mechanize
 
 pip2 install mechanize
 
+git clone https://github.com/jobayerhasanrahi/J0B4Y3R
+
 cd J0B4Y3R
 
 python J0B4Y3R.py
